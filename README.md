@@ -56,9 +56,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=aman6946&show_icons=true&theme=tokyonight" />
 </p>
 
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aman6946&theme=tokyonight" />
-</p>
 
 ---
 

@@ -51,19 +51,6 @@
 
 ---
 
-## 🐙 GitHub Stats 🐙
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=aman6946&show_icons=true&theme=tokyonight" />
-</p>
-
-
----
-
-## 🏆 GitHub Trophies 🏆
-<p>
-<img src="https://github-profile-trophy.vercel.app/?username=aman6946&theme=radical" />
-</p>
-
 
 <!--
 **aman6946/aman6946** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

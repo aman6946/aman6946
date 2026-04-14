@@ -24,7 +24,7 @@
 - System Design Basics 😎  
 
 ## 📫 Reach Me At
-📧 **your_email@gmail.com**
+📧 **amansingh6946@gmail.com**
 
 ## 👨‍💻 My Projects
 👉 https://github.com/aman6946?tab=repositories

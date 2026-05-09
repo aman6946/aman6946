@@ -16,7 +16,7 @@
 ## 👨‍💻 Skills & Technologies
 - **Frontend:** React ⚛️, HTML5, CSS3, JavaScript  
 - **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
+- **Database:** MongoDB , SQL 
 - **Tools:** Git, GitHub, VS Code  
 
 ## 🌱 Currently Learning

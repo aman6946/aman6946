@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Aman Singh 😺✨</h1>
+<h1 align="center">Hi 👋, I'm Aman Singh ✨</h1>
 <h3 align="center">A Passionate MERN Stack Developer from India 🌍</h3>
 
 <p align="center">
-(> Fueled by curiosity 🤔 and coffee ☕ <)
+(> Fueled by curiosity 🤔 <)
 </p>
 
-✨🌟💫⚡️🌈
+<center>✨🌟💫⚡️🌈</center>
 
 ---
 

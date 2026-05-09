@@ -5,7 +5,7 @@
 (> Fueled by curiosity 🤔 <)
 </p>
 
-<center>✨🌟💫⚡️🌈</center>
+
 
 ---
 
